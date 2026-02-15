@@ -11,11 +11,11 @@ Data-driven professional with hands-on experience in procurement analytics, supp
 
 I work extensively with:
 
-Python (Pandas, NumPy, Matplotlib)
-SQL (Joins, Subqueries, Aggregations)
-Power BI Dashboards
-SAP Data Extraction
-Exploratory Data Analysis (EDA)
+Python (Pandas, NumPy, Matplotlib) |
+SQL (Joins, Subqueries, Aggregations) |
+Power BI Dashboards |
+SAP Data Extraction |
+Exploratory Data Analysis (EDA) |
 Currently building strong foundations in Data Analytics & Business Intelligence to transition fully into IT/Data domain.
 
 Technical Skills
